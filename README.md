@@ -24,7 +24,7 @@ Check out this list of everything we will use in this app:
 - `Responsiveness`
 - `BEM Methodologies`
 - `Semantic HTML`
-- `AWS Deployment`
+- `Vercel Deployment`
 - `GitHub`
 
 ## 🛠️ Open and run the project
