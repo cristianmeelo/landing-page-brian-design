@@ -1,38 +1,74 @@
-![Landing Page - Brian Design](thumbnail.png)
+<table align="right">
+  <tr>
+    <td>
+      <a href="README-EN.md">🇺🇸 English (apenas no GitHub)</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="README.md">🇧🇷 Português</a>
+    </td>
+  </tr>
+</table>
+
+
+![](https://github.com/cristianmeelo/landing-page-brian-design/blob/main/thumbnail.png?raw=true)
+
+![](https://github.com/cristianmeelo/landing-page-brian-design/blob/main/thumbnail-mockup.png?raw=true#vitrinedev)
+
+<div align="center">
+<a href="https://landing-page-brian-design.vercel.app/">
+  <img src="https://img.shields.io/badge/-CONFIRA%20AQUI-lightblue" alt="Image App" >
+</a>
+</div>
+
+<br/>
 
 # Landing Page - Brian Design
 
-This is the development of Landing Page - Brian Design.
+Este é o desenvolvimento da Landing Page - Brian Design.
 
-<img src="screencapture.png" alt="Image App" width="50%">
 
-## 🔨 Project features
+## 🔨 Recursos do projeto
 
-This was my third development of a landing page. I highly recommend this project for beginners developers, as it works well with sass.
 
-The landing page is designed to provide relevant and straightforward information about what the visitor is looking for and encourage them to take a specific action, such as filling out a form, making a purchase or subscribing to a mailing list. It can be used in online advertising campaigns, such as ads on Google or social media, or in other digital marketing strategies.
+Este foi meu terceiro desenvolvimento de uma landing page. Eu recomendo fortemente este projeto para desenvolvedores iniciantes, pois funciona bem com ousadia.
 
-The [Tutorial of this application you can find here](https://www.youtube.com/watch?v=pk-MEjUINjI&ab_channel=BrianDesign).
+A landing page foi projetada para fornecer informações relevantes e diretas sobre o que o visitante procura e incentivá-lo a realizar uma ação específica, como preencher um formulário, fazer uma compra ou inscrever-se em uma mailing list. Pode ser utilizado em campanhas publicitárias online, como anúncios no Google ou nas redes sociais, ou em outras estratégias de marketing digital.
 
-## ✔️ Techniques and technologies used
+O [Tutorial deste aplicativo você encontra aqui](https://www.youtube.com/watch?v=pk-MEjUINjI&ab_channel=BrianDesign).
 
-Check out this list of everything we will use in this app:
+## ⚙️ Técnicas e tecnologias usadas
 
-- `HTML 5`
+
+Confira essa lista de tudo que vamos usar nesse app:
+
+- `Semantic HTML`
 - `CSS 3`
 - `Sass`
 - `Responsiveness`
 - `BEM Methodologies`
-- `Semantic HTML`
 - `Vercel Deployment`
 - `GitHub`
 
-## 🛠️ Open and run the project
+## 🛠️ Abra e execute o projeto
 
-To open and run the project, add the Live Server extension, click on the Go Live button usually located in the lower right corner if you are using vscode.
 
-Then go to <a href="http://127.0.0.1:5500/">http://127.0.0.1:5500/</a> in your browser.
+Para abrir e executar o projeto, adicione a extensão Live Server, clique no botão Go Live geralmente localizado no canto inferior direito se você estiver usando vscode.
 
-## 📚 More tutorial information
+Em seguida, vá para <a href="http://127.0.0.1:5500/">http://127.0.0.1:5500/</a> no seu navegador.
 
-This landing page was developed from the tutorial [Brian Design](https://www.youtube.com/@briandesign). The main idea behind the implementation of this tutorial is to further evolve pure knowledge in html and css bases. When developing landing pages I learn about different effects, ux writing, and attractive color patterns.
+## 📚 Mais informações do tutorial
+
+Esta landing page foi desenvolvida a partir do tutorial [Brian Design](https://www.youtube.com/@briandesign). A ideia principal por trás da implementação deste tutorial é evoluir ainda mais o conhecimento puro em bases html e css. Ao desenvolver landing pages, aprendo sobre diferentes efeitos, escrita ux e padrões de cores atraentes.
+
+
+| :placard: Vitrine.Dev |                                                                                       |
+| --------------------- | ------------------------------------------------------------------------------------- |
+| :sparkles: Nome       | **Landing Page - Brian Design**                                                                           |
+| :label: Tecnologias   | Semantic HTML, CSS 3, Sass, Responsiveness, BEM Methodologies, Vercel Deployment, GitHub (tecnologias utilizadas) |
+| :rocket: URL          | https://landing-page-ballerini-mu.vercel.app/                                                    |
+| :fire: Desafio        | https://www.youtube.com/user/RafaellaBallerini                          |
+
+
+
