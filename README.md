@@ -67,8 +67,8 @@ Esta landing page foi desenvolvida a partir do tutorial [Brian Design](https://w
 | --------------------- | ------------------------------------------------------------------------------------- |
 | :sparkles: Nome       | **Landing Page - Brian Design**                                                                           |
 | :label: Tecnologias   | Semantic HTML, CSS 3, Sass, Responsiveness, BEM Methodologies, Vercel Deployment, GitHub (tecnologias utilizadas) |
-| :rocket: URL          | https://landing-page-ballerini-mu.vercel.app/                                                    |
-| :fire: Desafio        | https://www.youtube.com/user/RafaellaBallerini                          |
+| :rocket: URL          | https://landing-page-brian-design.vercel.app/                                                    |
+| :fire: Desafio        | https://www.youtube.com/@briandesign                          |
 
 
 
